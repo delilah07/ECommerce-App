@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce-app",
+  "version": "1.0.0",
+  "description": "JS, NodeJS, Data Store",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delilah07/ECommerce-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delilah07/ECommerce-App/issues"
+  },
+  "homepage": "https://github.com/delilah07/ECommerce-App#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
